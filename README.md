@@ -1,4 +1,4 @@
-
+有些东西值得学习，有的东西并不值得。
 
 <div>
   <a href="https://github.com/fanlushuai" target="_blank">
