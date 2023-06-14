@@ -1,4 +1,4 @@
-
+如果疯子有一天知道了自己是疯子，如果有一天傻子知道了自己是傻子
 
 <div>
   <a href="https://github.com/fanlushuai" target="_blank">
