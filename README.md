@@ -1,4 +1,4 @@
-眼看着，身边的人一个个都疯了。孤独了。
+工作和兴趣区分开
 
 <div>
   <a href="https://github.com/fanlushuai" target="_blank">
