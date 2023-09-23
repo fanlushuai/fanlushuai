@@ -1,4 +1,4 @@
-低头走路，抬头看天
+动动小手，给哥一个star。哥生活贫困，精神意志状态太差。
 
 <div>
   <a href="https://github.com/fanlushuai" target="_blank">
