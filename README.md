@@ -1,5 +1,4 @@
-动动小手，给哥一个star。哥生活贫困，精神意志状态太差。
-
+不知道为什么，见到你很开心。感觉你要暴富，不信你给哥点个star。
 <div>
   <a href="https://github.com/fanlushuai" target="_blank">
     <img style="display: inline-block;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fanlushuai&show_icons=true&theme=graywhite" />
